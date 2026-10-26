@@ -1,0 +1,13 @@
+
+numpy
+pandas
+opencv-python
+mediapipe
+scikit-learn
+matplotlib
+seaborn
+tqdm
+torch
+torchvision
+transformers
+sentencepiece

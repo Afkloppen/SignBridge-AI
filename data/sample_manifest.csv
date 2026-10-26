@@ -1,0 +1,201 @@
+split,label,video_path,local_path,downloaded
+train,23. Court,Places/23. Court/MVI_3612.MOV,data\videos\Places\23. Court\MVI_3612.MOV,True
+train,23. Court,Places/23. Court/MVI_3531.MOV,data\videos\Places\23. Court\MVI_3531.MOV,True
+train,23. Court,Places/23. Court/MVI_3610.MOV,data\videos\Places\23. Court\MVI_3610.MOV,True
+train,23. Court,Places/23. Court/MVI_3452.MOV,data\videos\Places\23. Court\MVI_3452.MOV,True
+train,23. Court,Places/23. Court/MVI_3366.MOV,data\videos\Places\23. Court\MVI_3366.MOV,True
+train,23. Court,Colours/55. White/MVI_5062.MOV,data\videos\Colours\55. White\MVI_5062.MOV,True
+train,23. Court,Adjectives/1. loud/MVI_9290.MOV,data\videos\Adjectives\1. loud\MVI_9290.MOV,True
+train,23. Court,Places/23. Court/MVI_3453.MOV,data\videos\Places\23. Court\MVI_3453.MOV,True
+train,23. Court,Places/23. Court/MVI_3534.MOV,data\videos\Places\23. Court\MVI_3534.MOV,True
+train,23. Court,Places/23. Court/MVI_3609.MOV,data\videos\Places\23. Court\MVI_3609.MOV,True
+train,23. Court,Places/23. Court/MVI_3367.MOV,data\videos\Places\23. Court\MVI_3367.MOV,True
+train,23. Court,Animals/1. Dog/MVI_3028.MOV,data\videos\Animals\1. Dog\MVI_3028.MOV,True
+train,23. Court,Places/23. Court/MVI_3455.MOV,data\videos\Places\23. Court\MVI_3455.MOV,True
+train,23. Court,Places/23. Court/MVI_3533.MOV,data\videos\Places\23. Court\MVI_3533.MOV,True
+train,23. Court,Places/23. Court/MVI_3370.MOV,data\videos\Places\23. Court\MVI_3370.MOV,True
+train,23. Court,Places/23. Court/MVI_3454.MOV,data\videos\Places\23. Court\MVI_3454.MOV,True
+train,5. Cow,Animals/5. Cow/MVI_3047.MOV,data\videos\Animals\5. Cow\MVI_3047.MOV,True
+train,5. Cow,Animals/5. Cow/MVI_2992.MOV,data\videos\Animals\5. Cow\MVI_2992.MOV,True
+train,5. Cow,Animals/5. Cow/MVI_2990.MOV,data\videos\Animals\5. Cow\MVI_2990.MOV,True
+train,5. Cow,Animals/5. Cow/MVI_4160.MOV,data\videos\Animals\5. Cow\MVI_4160.MOV,True
+train,5. Cow,Animals/5. Cow/MVI_2991.MOV,data\videos\Animals\5. Cow\MVI_2991.MOV,True
+train,5. Cow,Animals/5. Cow/MVI_3097.MOV,data\videos\Animals\5. Cow\MVI_3097.MOV,True
+train,5. Cow,Animals/5. Cow/MVI_3017.MOV,data\videos\Animals\5. Cow\MVI_3017.MOV,True
+train,5. Cow,Animals/5. Cow/MVI_3099.MOV,data\videos\Animals\5. Cow\MVI_3099.MOV,True
+train,5. Cow,Animals/5. Cow/MVI_3074.MOV,data\videos\Animals\5. Cow\MVI_3074.MOV,True
+train,5. Cow,Animals/5. Cow/MVI_3075.MOV,data\videos\Animals\5. Cow\MVI_3075.MOV,True
+train,5. Cow,Animals/5. Cow/MVI_3015.MOV,data\videos\Animals\5. Cow\MVI_3015.MOV,True
+train,5. Cow,Animals/5. Cow/MVI_8569.MP4,data\videos\Animals\5. Cow\MVI_8569.MP4,True
+train,5. Cow,Animals/5. Cow/MVI_8570.MP4,data\videos\Animals\5. Cow\MVI_8570.MP4,True
+train,5. Cow,Animals/5. Cow/MVI_3049.MOV,data\videos\Animals\5. Cow\MVI_3049.MOV,False
+train,5. Cow,Animals/5. Cow/MVI_3098.MOV,data\videos\Animals\5. Cow\MVI_3098.MOV,True
+train,5. Cow,Animals/5. Cow/MVI_3046.MOV,data\videos\Animals\5. Cow\MVI_3046.MOV,True
+train,2. quiet,Adjectives/2. quiet/MVI_5338.MOV,data\videos\Adjectives\2. quiet\MVI_5338.MOV,True
+train,2. quiet,Adjectives/2. quiet/MVI_9452.MOV,data\videos\Adjectives\2. quiet\MVI_9452.MOV,True
+train,2. quiet,Adjectives/2. quiet/MVI_9371.MOV,data\videos\Adjectives\2. quiet\MVI_9371.MOV,True
+train,2. quiet,Adjectives/2. quiet/MVI_5339.MOV,data\videos\Adjectives\2. quiet\MVI_5339.MOV,True
+train,2. quiet,Adjectives/2. quiet/MVI_9538.MOV,data\videos\Adjectives\2. quiet\MVI_9538.MOV,False
+train,2. quiet,Adjectives/2. quiet/MVI_9453.MOV,data\videos\Adjectives\2. quiet\MVI_9453.MOV,True
+train,2. quiet,Adjectives/2. quiet/MVI_9293.MOV,data\videos\Adjectives\2. quiet\MVI_9293.MOV,True
+train,2. quiet,Adjectives/2. quiet/MVI_5181.MOV,data\videos\Adjectives\2. quiet\MVI_5181.MOV,True
+train,2. quiet,Adjectives/2. quiet/MVI_5182.MOV,data\videos\Adjectives\2. quiet\MVI_5182.MOV,False
+train,2. quiet,Adjectives/2. quiet/MVI_5260.MOV,data\videos\Adjectives\2. quiet\MVI_5260.MOV,False
+train,2. quiet,Adjectives/2. quiet/MVI_9451.MOV,data\videos\Adjectives\2. quiet\MVI_9451.MOV,False
+train,2. quiet,Adjectives/2. quiet/MVI_5261.MOV,data\videos\Adjectives\2. quiet\MVI_5261.MOV,False
+train,2. quiet,Adjectives/2. quiet/MVI_9294.MOV,data\videos\Adjectives\2. quiet\MVI_9294.MOV,True
+train,2. quiet,Adjectives/2. quiet/MVI_5262.MOV,data\videos\Adjectives\2. quiet\MVI_5262.MOV,False
+train,2. quiet,Adjectives/2. quiet/MVI_9373.MOV,data\videos\Adjectives\2. quiet\MVI_9373.MOV,True
+train,2. quiet,Adjectives/2. quiet/MVI_9292.MOV,data\videos\Adjectives\2. quiet\MVI_9292.MOV,True
+train,91. new,Adjectives/91. new/MVI_9502.MOV,data\videos\Adjectives\91. new\MVI_9502.MOV,True
+train,91. new,Adjectives/91. new/MVI_9421.MOV,data\videos\Adjectives\91. new\MVI_9421.MOV,True
+train,91. new,Adjectives/91. new/MVI_5309.MOV,data\videos\Adjectives\91. new\MVI_5309.MOV,False
+train,91. new,Adjectives/91. new/MVI_9500.MOV,data\videos\Adjectives\91. new\MVI_9500.MOV,True
+train,91. new,Adjectives/91. new/MVI_5231.MOV,data\videos\Adjectives\91. new\MVI_5231.MOV,True
+train,91. new,Adjectives/91. new/MVI_5229.MOV,data\videos\Adjectives\91. new\MVI_5229.MOV,True
+train,91. new,Adjectives/91. new/MVI_9260.MOV,data\videos\Adjectives\91. new\MVI_9260.MOV,True
+train,91. new,Adjectives/91. new/MVI_9422.MOV,data\videos\Adjectives\91. new\MVI_9422.MOV,True
+train,91. new,Adjectives/91. new/MVI_9341.MOV,data\videos\Adjectives\91. new\MVI_9341.MOV,True
+train,91. new,Adjectives/91. new/MVI_9342.MOV,data\videos\Adjectives\91. new\MVI_9342.MOV,True
+train,91. new,Adjectives/91. new/MVI_9259.MOV,data\videos\Adjectives\91. new\MVI_9259.MOV,True
+train,91. new,Adjectives/91. new/MVI_5308.MOV,data\videos\Adjectives\91. new\MVI_5308.MOV,False
+train,91. new,Adjectives/91. new/MVI_5148.MOV,data\videos\Adjectives\91. new\MVI_5148.MOV,True
+train,91. new,Adjectives/91. new/MVI_5151.MOV,data\videos\Adjectives\91. new\MVI_5151.MOV,True
+train,91. new,Adjectives/91. new/MVI_5307.MOV,data\videos\Adjectives\91. new\MVI_5307.MOV,True
+train,91. new,Adjectives/91. new/MVI_9340.MOV,data\videos\Adjectives\91. new\MVI_9340.MOV,False
+train,28. Store or Shop,Places/28. Store or Shop/MVI_3308.MOV,data\videos\Places\28. Store or Shop\MVI_3308.MOV,False
+train,28. Store or Shop,Places/28. Store or Shop/MVI_3310.MOV,data\videos\Places\28. Store or Shop\MVI_3310.MOV,False
+train,28. Store or Shop,Places/28. Store or Shop/MVI_3385.MOV,data\videos\Places\28. Store or Shop\MVI_3385.MOV,True
+train,28. Store or Shop,Electronics/53. Fan/MVI_4532.MOV,data\videos\Electronics\53. Fan\MVI_4532.MOV,True
+train,28. Store or Shop,Places/28. Store or Shop/MVI_3386.MOV,data\videos\Places\28. Store or Shop\MVI_3386.MOV,True
+train,28. Store or Shop,Places/28. Store or Shop/MVI_3635.MOV,data\videos\Places\28. Store or Shop\MVI_3635.MOV,False
+train,28. Store or Shop,Places/28. Store or Shop/MVI_3474.MOV,data\videos\Places\28. Store or Shop\MVI_3474.MOV,False
+train,28. Store or Shop,Places/28. Store or Shop/MVI_3387.MOV,data\videos\Places\28. Store or Shop\MVI_3387.MOV,True
+train,28. Store or Shop,Places/28. Store or Shop/MVI_3555.MOV,data\videos\Places\28. Store or Shop\MVI_3555.MOV,True
+train,28. Store or Shop,Places/28. Store or Shop/MVI_3632.MOV,data\videos\Places\28. Store or Shop\MVI_3632.MOV,True
+train,28. Store or Shop,Places/28. Store or Shop/MVI_3309.MOV,data\videos\Places\28. Store or Shop\MVI_3309.MOV,True
+train,28. Store or Shop,Places/28. Store or Shop/MVI_3475.MOV,data\videos\Places\28. Store or Shop\MVI_3475.MOV,False
+train,28. Store or Shop,Places/28. Store or Shop/MVI_3473.MOV,data\videos\Places\28. Store or Shop\MVI_3473.MOV,False
+train,28. Store or Shop,People/61. Father/MVI_5228.MOV,data\videos\People\61. Father\MVI_5228.MOV,True
+train,28. Store or Shop,Places/28. Store or Shop/MVI_3554.MOV,data\videos\Places\28. Store or Shop\MVI_3554.MOV,True
+train,28. Store or Shop,Places/28. Store or Shop/MVI_3553.MOV,data\videos\Places\28. Store or Shop\MVI_3553.MOV,True
+train,46. you (plural),Pronouns/46. you (plural)/MVI_0083.MOV,data\videos\Pronouns\46. you (plural)\MVI_0083.MOV,True
+train,46. you (plural),Pronouns/46. you (plural)/MVI_9947.MOV,data\videos\Pronouns\46. you (plural)\MVI_9947.MOV,True
+train,46. you (plural),Pronouns/46. you (plural)/MVI_9976.MOV,data\videos\Pronouns\46. you (plural)\MVI_9976.MOV,True
+train,46. you (plural),Pronouns/46. you (plural)/MVI_9909.MOV,data\videos\Pronouns\46. you (plural)\MVI_9909.MOV,True
+train,46. you (plural),Pronouns/46. you (plural)/MVI_0022.MOV,data\videos\Pronouns\46. you (plural)\MVI_0022.MOV,True
+train,46. you (plural),Pronouns/46. you (plural)/MVI_9946.MOV,data\videos\Pronouns\46. you (plural)\MVI_9946.MOV,True
+train,46. you (plural),Pronouns/46. you (plural)/MVI_0021.MOV,data\videos\Pronouns\46. you (plural)\MVI_0021.MOV,False
+train,46. you (plural),Pronouns/46. you (plural)/MVI_0082.MOV,data\videos\Pronouns\46. you (plural)\MVI_0082.MOV,True
+train,46. you (plural),Pronouns/46. you (plural)/MVI_9977.MOV,data\videos\Pronouns\46. you (plural)\MVI_9977.MOV,True
+train,46. you (plural),Pronouns/46. you (plural)/MVI_0031.MOV,data\videos\Pronouns\46. you (plural)\MVI_0031.MOV,True
+train,46. you (plural),Pronouns/46. you (plural)/MVI_9908.MOV,data\videos\Pronouns\46. you (plural)\MVI_9908.MOV,True
+train,46. you (plural),Pronouns/46. you (plural)/MVI_9975.MOV,data\videos\Pronouns\46. you (plural)\MVI_9975.MOV,True
+train,46. you (plural),Pronouns/46. you (plural)/MVI_0084.MOV,data\videos\Pronouns\46. you (plural)\MVI_0084.MOV,False
+train,46. you (plural),Pronouns/46. you (plural)/MVI_0030.MOV,data\videos\Pronouns\46. you (plural)\MVI_0030.MOV,False
+train,46. you (plural),Pronouns/46. you (plural)/MVI_0023.MOV,data\videos\Pronouns\46. you (plural)\MVI_0023.MOV,False
+train,46. you (plural),Pronouns/46. you (plural)/MVI_0024.MOV,data\videos\Pronouns\46. you (plural)\MVI_0024.MOV,True
+train,78. Girl,People/78. Girl/MVI_4243.MOV,data\videos\People\78. Girl\MVI_4243.MOV,True
+train,78. Girl,People/78. Girl/MVI_3818.MOV,data\videos\People\78. Girl\MVI_3818.MOV,False
+train,78. Girl,People/78. Girl/MVI_8645.MP4,data\videos\People\78. Girl\MVI_8645.MP4,False
+train,78. Girl,People/78. Girl/MVI_3817.MOV,data\videos\People\78. Girl\MVI_3817.MOV,True
+train,78. Girl,People/78. Girl/MVI_5288.MOV,data\videos\People\78. Girl\MVI_5288.MOV,True
+train,78. Girl,People/78. Girl/MVI_3965.MOV,data\videos\People\78. Girl\MVI_3965.MOV,True
+train,78. Girl,People/78. Girl/MVI_3966.MOV,data\videos\People\78. Girl\MVI_3966.MOV,True
+train,78. Girl,People/78. Girl/MVI_3967.MOV,data\videos\People\78. Girl\MVI_3967.MOV,True
+train,78. Girl,People/78. Girl/MVI_5135.MOV,data\videos\People\78. Girl\MVI_5135.MOV,True
+train,78. Girl,People/78. Girl/MVI_4113.MOV,data\videos\People\78. Girl\MVI_4113.MOV,True
+train,78. Girl,People/78. Girl/MVI_3819.MOV,data\videos\People\78. Girl\MVI_3819.MOV,True
+train,78. Girl,People/78. Girl/MVI_4984.MOV,data\videos\People\78. Girl\MVI_4984.MOV,True
+train,78. Girl,People/78. Girl/MVI_5289.MOV,data\videos\People\78. Girl\MVI_5289.MOV,False
+train,78. Girl,People/78. Girl/MVI_5137.MOV,data\videos\People\78. Girl\MVI_5137.MOV,False
+train,78. Girl,People/78. Girl/MVI_5290.MOV,data\videos\People\78. Girl\MVI_5290.MOV,True
+train,78. Girl,People/78. Girl/MVI_4114.MOV,data\videos\People\78. Girl\MVI_4114.MOV,True
+train,61. Father,People/61. Father/MVI_4940.MOV,data\videos\People\61. Father\MVI_4940.MOV,True
+train,61. Father,People/61. Father/MVI_4062.MOV,data\videos\People\61. Father\MVI_4062.MOV,False
+train,61. Father,People/61. Father/MVI_3765.MOV,data\videos\People\61. Father\MVI_3765.MOV,False
+train,61. Father,People/61. Father/MVI_3764.MOV,data\videos\People\61. Father\MVI_3764.MOV,False
+train,61. Father,People/61. Father/MVI_4061.MOV,data\videos\People\61. Father\MVI_4061.MOV,True
+train,61. Father,People/61. Father/MVI_5229.MOV,data\videos\People\61. Father\MVI_5229.MOV,True
+train,61. Father,People/61. Father/MVI_4223.MOV,data\videos\People\61. Father\MVI_4223.MOV,False
+train,61. Father,People/61. Father/MVI_3910.MOV,data\videos\People\61. Father\MVI_3910.MOV,True
+train,61. Father,People/61. Father/MVI_5227.MOV,data\videos\People\61. Father\MVI_5227.MOV,True
+train,61. Father,People/61. Father/MVI_4942.MOV,data\videos\People\61. Father\MVI_4942.MOV,True
+train,61. Father,People/61. Father/MVI_3912.MOV,data\videos\People\61. Father\MVI_3912.MOV,True
+train,61. Father,People/61. Father/MVI_3763.MOV,data\videos\People\61. Father\MVI_3763.MOV,True
+train,61. Father,People/61. Father/MVI_5228.MOV,data\videos\People\61. Father\MVI_5228.MOV,True
+train,61. Father,People/61. Father/MVI_5081.MOV,data\videos\People\61. Father\MVI_5081.MOV,True
+train,61. Father,People/61. Father/MVI_4941.MOV,data\videos\People\61. Father\MVI_4941.MOV,True
+train,61. Father,People/61. Father/MVI_4060.MOV,data\videos\People\61. Father\MVI_4060.MOV,True
+train,47. Red,Colours/47. Red/MVI_3720.MOV,data\videos\Colours\47. Red\MVI_3720.MOV,True
+train,47. Red,Colours/47. Red/MVI_4019.MOV,data\videos\Colours\47. Red\MVI_4019.MOV,False
+train,47. Red,Colours/47. Red/MVI_5038.MOV,data\videos\Colours\47. Red\MVI_5038.MOV,True
+train,47. Red,Colours/47. Red/MVI_8612.MP4,data\videos\Colours\47. Red\MVI_8612.MP4,True
+train,47. Red,Colours/47. Red/MVI_5184.MOV,data\videos\Colours\47. Red\MVI_5184.MOV,True
+train,47. Red,Colours/47. Red/MVI_4018.MOV,data\videos\Colours\47. Red\MVI_4018.MOV,True
+train,47. Red,Colours/47. Red/MVI_5037.MOV,data\videos\Colours\47. Red\MVI_5037.MOV,True
+train,47. Red,Colours/47. Red/MVI_4207.MOV,data\videos\Colours\47. Red\MVI_4207.MOV,True
+train,47. Red,Colours/47. Red/MVI_3721.MOV,data\videos\Colours\47. Red\MVI_3721.MOV,True
+train,47. Red,Colours/47. Red/MVI_4899.MOV,data\videos\Colours\47. Red\MVI_4899.MOV,True
+train,47. Red,Colours/47. Red/MVI_3868.MOV,data\videos\Colours\47. Red\MVI_3868.MOV,True
+train,47. Red,Colours/47. Red/MVI_4017.MOV,data\videos\Colours\47. Red\MVI_4017.MOV,True
+train,47. Red,Colours/47. Red/MVI_5185.MOV,data\videos\Colours\47. Red\MVI_5185.MOV,True
+train,47. Red,Colours/47. Red/MVI_3867.MOV,data\videos\Colours\47. Red\MVI_3867.MOV,True
+train,47. Red,Colours/47. Red/MVI_5039.MOV,data\videos\Colours\47. Red\MVI_5039.MOV,True
+train,47. Red,Colours/47. Red/MVI_3719.MOV,data\videos\Colours\47. Red\MVI_3719.MOV,True
+train,40. I,Pronouns/40. I/MVI_0066.MOV,data\videos\Pronouns\40. I\MVI_0066.MOV,False
+train,40. I,Pronouns/40. I/MVI_9919.MOV,data\videos\Pronouns\40. I\MVI_9919.MOV,True
+train,40. I,Pronouns/40. I/MVI_9879.MOV,data\videos\Pronouns\40. I\MVI_9879.MOV,False
+train,40. I,Pronouns/40. I/MVI_9878.MOV,data\videos\Pronouns\40. I\MVI_9878.MOV,False
+train,40. I,Pronouns/40. I/MVI_0001.MOV,data\videos\Pronouns\40. I\MVI_0001.MOV,False
+train,40. I,Pronouns/40. I/MVI_0065.MOV,data\videos\Pronouns\40. I\MVI_0065.MOV,True
+train,40. I,Pronouns/40. I/MVI_9920.MOV,data\videos\Pronouns\40. I\MVI_9920.MOV,True
+train,40. I,Pronouns/40. I/MVI_9881.MOV,data\videos\Pronouns\40. I\MVI_9881.MOV,False
+train,40. I,Pronouns/40. I/MVI_9995.MOV,data\videos\Pronouns\40. I\MVI_9995.MOV,True
+train,40. I,Pronouns/40. I/MVI_9959.MOV,data\videos\Pronouns\40. I\MVI_9959.MOV,True
+train,40. I,Pronouns/40. I/MVI_0012.MOV,data\videos\Pronouns\40. I\MVI_0012.MOV,True
+train,40. I,Pronouns/40. I/MVI_9958.MOV,data\videos\Pronouns\40. I\MVI_9958.MOV,True
+train,40. I,Pronouns/40. I/MVI_9918.MOV,data\videos\Pronouns\40. I\MVI_9918.MOV,False
+train,40. I,Pronouns/40. I/MVI_0013.MOV,data\videos\Pronouns\40. I\MVI_0013.MOV,False
+train,40. I,Pronouns/40. I/MVI_9957.MOV,data\videos\Pronouns\40. I\MVI_9957.MOV,False
+train,40. I,Pronouns/40. I/MVI_0002.MOV,data\videos\Pronouns\40. I\MVI_0002.MOV,False
+val,23. Court,Places/23. Court/MVI_3284.MOV,data\videos\Places\23. Court\MVI_3284.MOV,False
+val,23. Court,Places/23. Court/MVI_3532.MOV,data\videos\Places\23. Court\MVI_3532.MOV,True
+val,5. Cow,Animals/5. Cow/MVI_4159.MOV,data\videos\Animals\5. Cow\MVI_4159.MOV,True
+val,5. Cow,Animals/5. Cow/MVI_4158.MOV,data\videos\Animals\5. Cow\MVI_4158.MOV,True
+val,2. quiet,Adjectives/2. quiet/MVI_9537.MOV,data\videos\Adjectives\2. quiet\MVI_9537.MOV,True
+val,2. quiet,Adjectives/2. quiet/MVI_5340.MOV,data\videos\Adjectives\2. quiet\MVI_5340.MOV,True
+val,91. new,Adjectives/91. new/MVI_9261.MOV,data\videos\Adjectives\91. new\MVI_9261.MOV,True
+val,91. new,Adjectives/91. new/MVI_9423.MOV,data\videos\Adjectives\91. new\MVI_9423.MOV,True
+val,28. Store or Shop,Places/28. Store or Shop/MVI_3633.MOV,data\videos\Places\28. Store or Shop\MVI_3633.MOV,True
+val,28. Store or Shop,Places/28. Store or Shop/MVI_3307.MOV,data\videos\Places\28. Store or Shop\MVI_3307.MOV,True
+val,46. you (plural),Pronouns/46. you (plural)/MVI_0032.MOV,data\videos\Pronouns\46. you (plural)\MVI_0032.MOV,True
+val,46. you (plural),Pronouns/46. you (plural)/MVI_9945.MOV,data\videos\Pronouns\46. you (plural)\MVI_9945.MOV,True
+val,78. Girl,People/78. Girl/MVI_4115.MOV,data\videos\People\78. Girl\MVI_4115.MOV,True
+val,78. Girl,People/78. Girl/MVI_4986.MOV,data\videos\People\78. Girl\MVI_4986.MOV,False
+val,61. Father,People/61. Father/MVI_3909.MOV,data\videos\People\61. Father\MVI_3909.MOV,True
+val,61. Father,People/61. Father/MVI_8626.MP4,data\videos\People\61. Father\MVI_8626.MP4,True
+val,47. Red,Colours/47. Red/MVI_4897.MOV,data\videos\Colours\47. Red\MVI_4897.MOV,True
+val,47. Red,Colours/47. Red/MVI_3866.MOV,data\videos\Colours\47. Red\MVI_3866.MOV,True
+val,40. I,Pronouns/40. I/MVI_9922.MOV,data\videos\Pronouns\40. I\MVI_9922.MOV,False
+val,40. I,Pronouns/40. I/MVI_0003.MOV,data\videos\Pronouns\40. I\MVI_0003.MOV,True
+test,23. Court,Places/23. Court/MVI_3365.MOV,data\videos\Places\23. Court\MVI_3365.MOV,True
+test,23. Court,Places/23. Court/MVI_3286.MOV,data\videos\Places\23. Court\MVI_3286.MOV,False
+test,5. Cow,Animals/5. Cow/MVI_3048.MOV,data\videos\Animals\5. Cow\MVI_3048.MOV,True
+test,5. Cow,Animals/5. Cow/MVI_3073.MOV,data\videos\Animals\5. Cow\MVI_3073.MOV,True
+test,2. quiet,Adjectives/2. quiet/MVI_9539.MOV,data\videos\Adjectives\2. quiet\MVI_9539.MOV,True
+test,2. quiet,Adjectives/2. quiet/MVI_5180.MOV,data\videos\Adjectives\2. quiet\MVI_5180.MOV,True
+test,91. new,Adjectives/91. new/MVI_5230.MOV,data\videos\Adjectives\91. new\MVI_5230.MOV,True
+test,91. new,Adjectives/91. new/MVI_5150.MOV,data\videos\Adjectives\91. new\MVI_5150.MOV,True
+test,28. Store or Shop,Places/28. Store or Shop/MVI_3384.MOV,data\videos\Places\28. Store or Shop\MVI_3384.MOV,True
+test,28. Store or Shop,Places/28. Store or Shop/MVI_3552.MOV,data\videos\Places\28. Store or Shop\MVI_3552.MOV,True
+test,46. you (plural),Pronouns/46. you (plural)/MVI_9948.MOV,data\videos\Pronouns\46. you (plural)\MVI_9948.MOV,True
+test,46. you (plural),Pronouns/46. you (plural)/MVI_9907.MOV,data\videos\Pronouns\46. you (plural)\MVI_9907.MOV,True
+test,78. Girl,People/78. Girl/MVI_4985.MOV,data\videos\People\78. Girl\MVI_4985.MOV,False
+test,78. Girl,People/78. Girl/MVI_5136.MOV,data\videos\People\78. Girl\MVI_5136.MOV,True
+test,61. Father,People/61. Father/MVI_5082.MOV,data\videos\People\61. Father\MVI_5082.MOV,True
+test,61. Father,People/61. Father/MVI_5080.MOV,data\videos\People\61. Father\MVI_5080.MOV,True
+test,47. Red,Colours/47. Red/MVI_5186.MOV,data\videos\Colours\47. Red\MVI_5186.MOV,True
+test,47. Red,Colours/47. Red/MVI_4898.MOV,data\videos\Colours\47. Red\MVI_4898.MOV,True
+test,40. I,Pronouns/40. I/MVI_0014.MOV,data\videos\Pronouns\40. I\MVI_0014.MOV,True
+test,40. I,Pronouns/40. I/MVI_9880.MOV,data\videos\Pronouns\40. I\MVI_9880.MOV,True

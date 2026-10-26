@@ -1,0 +1,29 @@
+
+# Python virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Frontend dependencies
+node_modules/
+frontend/node_modules/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Dataset files - keep locally, don't upload
+external_datasets/
+datasets/
+data/videos/
+data/raw/
+data/processed/*.npz
+
+# OS files
+.DS_Store
